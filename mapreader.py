@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Created by Joel John
 
 """mapreader -- outputs the position of the green pointer and its bearing. """
 
